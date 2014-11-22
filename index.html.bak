@@ -6,7 +6,7 @@
 	<link href="css/styles.css" rel="stylesheet" type="text/css" /> 
 </head>
 <body>
-    <div id="divcss5"><img " id="head_icon" src="images/profile.jpg" alt="mayi" /><h3>WChat:l1204783269</h3><h3>Mail:203mayi@gmail.com</h3></div> 
+    <div id="divcss5"><img " id="head_icon" src="images/profile.jpg" alt="mayi" /><h3>Mail:203mayi@gmail.com</h3><h3>WChat:l1204783269&nsap</h3></div> 
     <div><h2>Q&A</h2>
     <ul>
     <li>Q:如何获取接口？</br>A:没有接口。可以使用Fiddler访问拉勾网时传递的参数。然后解析获取到的拉勾网的html数据。</li>
