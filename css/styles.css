@@ -1,4 +1,2 @@
 #divcss5{ margin:30px auto;text-align: center;color: #ffffff;font-size: 30px;} 
-#head_icon{border: white solid 5px}
-#divcss5 img{ border-radius:50%} 
-body{background: #99cc66}
+#head_icon{border-radius:50%;border: white solid 5px;border-color:#019875;width: 120px}
